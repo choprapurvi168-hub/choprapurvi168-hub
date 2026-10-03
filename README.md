@@ -26,6 +26,7 @@ I enjoy building beginner-to-intermediate level projects using Python and applyi
 - 📊 **Expense Tracker (Streamlit)** – With visualizations  
 - 🎮 **Rock Paper Scissors** – Python & C++  
 - 🧠 **Text-based Guessing Game**
+- 📫 **House-price-prediction-model** - ML 
 - 🎯 **Face-detection-system** - python and opencv
 - 🎮**DeepFake-detection-system** - python, tensorflow, opencv, streamlit
   
